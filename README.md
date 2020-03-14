@@ -8,7 +8,7 @@ https://easyeda.com/dherrendoerfer/altair8800again-panel (Front panel switch sam
 Link to the Teensy firmware fork of the Altair8800 repo:  
 https://github.com/dherrendoerfer/Altair8800
 
-Further required liraries to use the Teensy code:  
+Further required libraries to use the Teensy code:  
 https://github.com/dherrendoerfer/uVGA  
 https://github.com/PaulStoffregen/WS2812Serial  
 
