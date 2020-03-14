@@ -3,6 +3,7 @@ The Altair 8800 Again! Project Repository
 
 Link to the EasyEDA project files:  
 https://easyeda.com/dherrendoerfer/altair8800again  
+https://easyeda.com/dherrendoerfer/altair8800again-panel (Front panel switch sample)  
 
 Link to the Teensy firmware fork of the Altair8800 repo:  
 https://github.com/dherrendoerfer/Altair8800
