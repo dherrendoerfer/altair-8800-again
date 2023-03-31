@@ -20,6 +20,10 @@ The Teensy provides a VGA out and PS/2 keyboard in for limited terminal support 
 There are provisions for audio in and out to read and write audio data at 300bps.  
 One serial link is provided for RS/232 connections to a terminal.
 
+### Configuration:  
+All serial ports, as well as the VGA and audio interface can be configured directly through the Altair config interface via the master terminal.  
+The available PCBs have a power plug. Polarity and Voltage is 5V center pin positive.  
+
 Enjoy !
 
 
