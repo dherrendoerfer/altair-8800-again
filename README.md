@@ -22,7 +22,8 @@ One serial link is provided for RS/232 connections to a terminal.
 
 ### Configuration:  
 All serial ports, as well as the VGA and audio interface can be configured directly through the Altair config interface via the master terminal.  
-The available PCBs have a power plug. Polarity and Voltage is 5V center pin positive.  
+The default configuration has the master terminal on the Teensy USB port.  
+The available PCBs have a power plug. Polarity and voltage is 5V center pin positive.  
 
 Enjoy !
 
